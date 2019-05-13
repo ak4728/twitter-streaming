@@ -13,6 +13,8 @@ access_token="put_access_token_here"
 access_token_secret="put_access_token_secret_here"
 
 ### Config 
-locs = [-75,39,-73,41]  #This is the part you enter yoru bounding box lat lon values
-nsecs=random.randint(60,63) # number of seconds the code will sleep when there is an error
-streamTimeout = 30.0 # Stream timeout if there is something wrong
+locs = [-75,39,-73,41]  This is the part you enter yoru bounding box lat lon values
+
+nsecs=random.randint(60,63) number of seconds the code will sleep when there is an error
+
+streamTimeout = 30.0  Stream timeout if there is something wrong
